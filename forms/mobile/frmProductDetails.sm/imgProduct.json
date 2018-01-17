@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5aaae405b0441f981e8812236424391",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmProductDetails",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgProduct",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "c1882790c45045a09f596f8aa05114dc",
+    "name": "kony.ui.Image2",
+    "parent": "flxSub1",
+    "pf": "frmProductDetails",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

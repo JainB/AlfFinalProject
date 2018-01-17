@@ -1,0 +1,25 @@
+{
+    "AS_TextField_627aba1e744a4f7598721a1c199f06eb": {
+        "id": "AS_TextField_627aba1e744a4f7598721a1c199f06eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onDone_df65848f6021453f9137182bfb5a141e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getSearchProducts",
+            "display": "getSearchProducts",
+            "inputparams": [{
+                "name": "ButtonType"
+            }],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

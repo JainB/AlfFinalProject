@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s139cc72d81940d79ea99b3d78bf46eb",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "90%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mbe33e4439684fb5a6f996336a26bd47",
+        "ma42948f79ab4e619ba5a96c031d74e4",
+        "m5e46486a28a4237b57675aab79d07c3"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0980a2fba22459eb7a7e9e62ffc9ac4",
+    "id": "btnSearch",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f60e35d42cc1425b91605d31cf359ab9",
+    "name": "kony.ui.Button",
+    "parent": "flxMaster",
+    "pf": "MasterPage",
+    "wType": "Button",
+    "zindex": 1
+}

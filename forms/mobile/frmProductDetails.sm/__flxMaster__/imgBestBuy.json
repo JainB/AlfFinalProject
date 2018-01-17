@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5aaae405b0441f981e8812236424391",
+    "_srcKuid_": "df93775f2fc1440ea159cf88de46e65f",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "imgBestBuy",
+        "src": "bestbuylogo.png",
+        "width": {
+            "type": "string",
+            "value": "100dp"
+        }
+    },
+    "id": "imgBestBuy",
+    "instanceOf": "df93775f2fc1440ea159cf88de46e65f",
+    "isvisible": true,
+    "kuid": "m4045b226ba347aa85725df762576358",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flxMaster",
+    "pf": "frmProductDetails",
+    "topLevelInstanceKUID": "m25bc782aa5e463ba52d757ed7a30649",
+    "wType": "Image"
+}

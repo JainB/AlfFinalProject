@@ -1,0 +1,33 @@
+{
+    "AS_Segment_0f3ae4a1cc754adfbaaf3ab5c8ead387": {
+        "id": "AS_Segment_0f3ae4a1cc754adfbaaf3ab5c8ead387",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0d094e1bcdd44c56a5f4985c31a46d47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9b7ec8c2cb634822a3130e20ed59562d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getSubCategories",
+            "display": "getSubCategories",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

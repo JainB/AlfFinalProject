@@ -1,0 +1,29 @@
+{
+    "AS_Button_72799d978f2c4b569a3ccdd5aff8e60e": {
+        "id": "AS_Button_72799d978f2c4b569a3ccdd5aff8e60e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProducts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "77d4a1c0b9bd42c3ba6e3979e55348b7"
+        },
+        "sourceObj": {
+            "itemKUID": "28385dd85feb499e94cdbbe25baec154",
+            "widgetKUID": "b69b91f58ba04ca49cdd020ef1c3bd27",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1442eed7b924486aa88b6073985933bb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmHome.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

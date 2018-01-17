@@ -1,0 +1,23 @@
+{
+    "AS_Button_b41504cf4e0d40bf9c38b3a0f6a8031d": {
+        "id": "AS_Button_b41504cf4e0d40bf9c38b3a0f6a8031d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProducts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "77d4a1c0b9bd42c3ba6e3979e55348b7"
+        },
+        "sourceObj": {
+            "itemKUID": "28385dd85feb499e94cdbbe25baec154",
+            "widgetKUID": "f60e35d42cc1425b91605d31cf359ab9",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

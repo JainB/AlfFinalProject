@@ -1,0 +1,57 @@
+{
+    "AS_Button_62f2885a78d8446a86a9fbae852e5212": {
+        "id": "AS_Button_62f2885a78d8446a86a9fbae852e5212",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0d094e1bcdd44c56a5f4985c31a46d47"
+        },
+        "sourceObj": {
+            "itemKUID": "28385dd85feb499e94cdbbe25baec154",
+            "widgetKUID": "f60e35d42cc1425b91605d31cf359ab9",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____0671dd1452394c8cadbfcb6a1c207cf7",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmHome",
+            "widgetId": "flxDummy",
+            "itemKUID": "0d094e1bcdd44c56a5f4985c31a46d47",
+            "widgetKUID": "4291cc712fd24b65b160b148c68374aa",
+            "animationObject": {
+                "top": "70dp",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____0671dd1452394c8cadbfcb6a1c207cf7",
+            "displayAnimationId": "MOVE_ACTION____0671dd1452394c8cadbfcb6a1c207cf7",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmHome.flxDummy"
+        }, {
+            "id": "ADD_SNIPPET__829c6cf525e24bf9a2153097d52582ad",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmHome.flxDummy.setVisibility(true);\nfrmHome.flxSearch.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s74aa4da8ac14fa9a6751dda059608e8",
+    "_srcKuid_": "b69b91f58ba04ca49cdd020ef1c3bd27",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "10%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "btnBack",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "10%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnBack",
+    "ide_onClick": "AS_Button_72799d978f2c4b569a3ccdd5aff8e60e",
+    "instanceOf": "b69b91f58ba04ca49cdd020ef1c3bd27",
+    "isvisible": true,
+    "kuid": "m1d98f86dbd34cca9eb349684a0951ac",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxMaster",
+    "pf": "frmProducts",
+    "topLevelInstanceKUID": "m1374337291044c488df9ea93790adae",
+    "wType": "Button"
+}
